@@ -12,5 +12,4 @@ The system handles four critical search types with near-instantaneous latency:
 
 ## Prerequisites
 - **PostgreSQL Server:** Must be installed and running (default port 5432).  
-- **Database Credentials:** User `postgres` must have password set to `skanda`, and a database named `database1` must exist.  
 - **Python 3.10+** installed on your system (tested with Python 3.13).  
